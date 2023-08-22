@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Flutter",
+    "imagePath": "assets/icons/category/flutter logo.png"
+  },
+  {
+    "id": 2,
+    "name": "Java",
+    "imagePath": "assets/icons/category/java logo.png"
+  },
+  {
+    "id": 3,
+    "name": "Python",
+    "imagePath": "assets/icons/category/python logo.png"
+  },
+  {
+    "id": 4,
+    "name": "C++",
+    "imagePath": "assets/icons/category/c++.png"
+  },
+  {
+    "id": 5,
+    "name": "Javascript",
+    "imagePath": "assets/icons/category/javascript.png"
+  },
+  {
+    "id": 6,
+    "name": "SQL",
+    "imagePath": "assets/icons/category/sql logo.png"
+  },
+  {
+    "id": 7,
+    "name": "CSS",
+    "imagePath": "assets/icons/category/css logo.png"
+  },
+  {
+    "id": 8,
+    "name": "PHP",
+    "imagePath": "assets/icons/category/php logo.png"
+  }
+]
